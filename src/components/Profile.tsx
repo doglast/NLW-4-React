@@ -6,7 +6,10 @@ export function Profile(){
       <img src='https://github.com/doglast.png' alt='Douglas Evangelista dos Santos'/>
       <div>
         <strong>Douglas Evangelista</strong>
-        <p>Level 1</p>
+        <p>
+          <img src='icons/level.svg' alt='level up'/>
+          Level 1
+          </p>
       </div>
     </div>
   )
